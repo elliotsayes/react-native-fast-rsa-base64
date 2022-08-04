@@ -7,7 +7,7 @@
 # VERSION=v0.1.1 ./upgrade_bridge_libs.sh             #
 #######################################################
 
-REPO="jerson/rsa-mobile"
+REPO="elliotsayes/rsa-mobile-base64"
 NAME="librsa_bridge"
 PLATFORMS=("android" "ios" )
 OUTPUT_DIRS=("android/src/main" "ios")
